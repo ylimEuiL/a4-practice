@@ -1,0 +1,65 @@
+body {
+	background-image: url("x06eou008cy7.jpg");
+	background-color: #00b386;
+}
+
+#banner {
+	background: -moz-radial-gradient(#6699ff, black); /* For Firefox 3.6 to 15 */
+	background: radial-gradient(#6699ff,black); /* For Firefox 3.6 to 15 */
+}
+
+#banner h1 {
+	color: orange;
+	text-align: center;
+	font-family: "Courier New";
+	text-shadow: 5px 5px 5px red;
+}
+
+#banner h2 {
+	color: orange;
+	text-align: center;
+	font-family: "Helvetica";
+	text-shadow: 5px 5px 5px red;
+}
+
+#drop {
+	text-align: center;
+}
+
+#picture {
+	color: yellow;
+	text-align: center;
+	border: 5px dashed yellow;
+	font-family: "Curlz MT";
+	text-shadow: 5px 5px 5px red;
+}
+
+#oh {
+	text-align: center;
+}
+
+#picture {
+	text-align: center;
+}
+
+#JS {
+	text-align: center;
+	font-family: "Century Gothic";
+	color: #CCCCCC;
+}
+
+#solaire {
+	border-style: ridge;
+	box-shadow: 10px 10px 20px black;
+	border-width: 10px;
+	border-color: yellow;
+	padding: 10px
+}
+
+#slideshow{
+	border-style: inset;
+	box-shadow: 10px 10px 20px black;
+	border-width: 7px;
+	border-color: gray;
+	padding: 30px
+}
